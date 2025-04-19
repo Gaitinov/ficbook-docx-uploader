@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary Word files
+~$*.docx
+
+# System files (Windows/Mac/Linux)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ehthumbs.db
+Desktop.ini
+
+# Docx temp
+~$*.docx
+
+# Logs
+*.log
